@@ -10,6 +10,6 @@
 </a>
 
 ### Visit pytube:
-<p><a href="https://pypi.org/project/pytube/">Pytube Pypi</a></p>
+<a href="https://pypi.org/project/pytube/" target="_blank">Pytube Pypi</a>
 
 
